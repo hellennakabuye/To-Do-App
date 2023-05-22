@@ -1,0 +1,44 @@
+anytree==2.8.0
+asgiref==3.6.0
+biopython @ file:///home/conda/feedstock_root/build_artifacts/biopython_1676639050243/work
+boltons @ file:///croot/boltons_1677628692245/work
+brotlipy==0.7.0
+certifi==2023.5.7
+cffi @ file:///croot/cffi_1670423208954/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+conda==23.3.1
+conda-content-trust @ file:///tmp/abs_5952f1c8-355c-4855-ad2e-538535021ba5h26t22e5/croots/recipe/conda-content-trust_1658126371814/work
+conda-package-handling @ file:///croot/conda-package-handling_1672865015732/work
+conda_package_streaming @ file:///croot/conda-package-streaming_1670508151586/work
+cryptography @ file:///croot/cryptography_1677533068310/work
+dj-database-url==2.0.0
+Django==4.1.5
+dnspython @ file:///home/conda/feedstock_root/build_artifacts/dnspython_1673812078720/work
+fpdf==1.7.2
+gunicorn==20.1.0
+idna @ file:///croot/idna_1666125576474/work
+jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpointer==2.1
+mongoengine @ file:///home/conda/feedstock_root/build_artifacts/mongoengine_1674324382188/work
+mykrobe @ file:///opt/conda/conda-bld/mykrobe_1659476364321/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1682210193659/work
+packaging @ file:///croot/packaging_1678965309396/work
+perl==1.0.0
+pluggy @ file:///tmp/build/80754af9/pluggy_1648024709248/work
+psycopg2-binary==2.9.6
+pycosat @ file:///croot/pycosat_1666805502580/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pymongo @ file:///home/conda/feedstock_root/build_artifacts/pymongo_1668739422843/work
+pyOpenSSL @ file:///croot/pyopenssl_1677607685877/work
+PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
+PyVCF3 @ file:///opt/conda/conda-bld/pyvcf3_1650931562118/work
+requests @ file:///croot/requests_1678709721434/work
+ruamel.yaml @ file:///croot/ruamel.yaml_1666304550667/work
+ruamel.yaml.clib @ file:///croot/ruamel.yaml.clib_1666302247304/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sqlparse==0.4.3
+toolz @ file:///croot/toolz_1667464077321/work
+tqdm @ file:///croot/tqdm_1679561862951/work
+typing_extensions==4.5.0
+urllib3 @ file:///croot/urllib3_1680254681959/work
+zstandard @ file:///croot/zstandard_1677013143055/work
